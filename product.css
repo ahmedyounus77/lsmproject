@@ -1,0 +1,77 @@
+
+
+
+#main
+{
+background-image: url(prbg.jpg);   
+height: 400px; 
+
+}
+
+#lm
+    {
+       
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+        font-size: 36pt !important;
+    }
+h1
+{
+    padding-top: 180px;
+    color: white;
+    vertical-align: middle ;
+    text-align: center;
+    font-family: "playfair_displayitalic" !important; 
+    font-size: 32pt;
+    font-weight: bolder;
+}
+img
+{
+    padding-right: 30px;
+}
+
+
+.btn
+{
+    color: white ;
+    font-size: 16pt ;
+    
+}
+
+.btn:hover
+{background-color: red ;}
+
+#romania
+{
+    height: 700px !important;
+    width: 1630px !important;
+}
+
+#maxican
+{
+    height: 700px !important;
+    width: 1630px !important;
+}
+
+#trueland
+{
+    height: 700px !important;
+    width: 1630px !important;
+}
+
+#vianallo
+{
+    height: 700px !important;
+    width: 1630px !important;
+}
+#princeton
+{
+    height: 700px !important;
+    width: 1630px !important;
+}
+
+#foot {
+    background-color: black;
+    height: 50px;
+    color: white;
+    font-size: 10pt;
+}

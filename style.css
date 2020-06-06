@@ -1,0 +1,140 @@
+
+
+
+img
+{
+    padding-right: 30px;
+}
+
+
+.btn
+{
+    color: white ;
+    font-size: 16pt ;
+    
+}
+
+.btn:hover
+{background-color: red ;}
+
+.nav-item
+{
+   
+    text-align: center;
+}
+
+#navbarNav
+{
+    text-align: center;
+}
+#brand
+{
+    background-color: black;
+    }
+
+    #lm
+    {
+       
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+        font-size: 36pt !important;
+    }
+
+    h1
+    {
+        font-weight: bold;
+        font-family: "Playfair Display";
+        font-size: 50px;
+        color: white;
+    }
+
+   
+
+      #foot {
+        background-color: black;
+        height: 50px;
+        color: white;
+        font-size: 10pt;
+    }
+    #intro6
+  {
+      height: 600px !important;
+    background-color: black;
+    color: black;
+    height: 300px;
+    font-size: 16pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-image: url(bg2.jpg);
+  }
+    #use
+    {
+        font-size: 16pt;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+  
+  #twitterb{
+    margin-top: 20x;
+    margin-right: 22px; 
+    font-size:30px;
+    color:mediumslateblue;
+        
+}
+#facebookb{
+    margin-top: 20px;
+    font-size:30px;
+    margin-right: 22px;
+    color:mediumslateblue;
+   
+    
+}
+ #youtubeb{
+    margin-top: 20px;
+    font-size:30px;
+    margin-right: 22px;
+    color:mediumslateblue;
+    
+ }
+
+#instab{
+    margin-top: 20px;
+    font-size:30px;
+    margin-right: 22px;
+    color:mediumslateblue;
+}
+
+#phone
+    {
+        color: mediumslateblue;
+        padding-right: 10px;
+    }
+
+    #email
+    {
+        color: mediumslateblue;
+        padding-right: 10px;
+    }
+
+    #Fax
+        {
+            color: mediumslateblue;
+            padding-right: 10px;
+        }
+
+        #globe
+        {
+            color: mediumslateblue;
+            padding-right: 10px;
+        }
+        
+          #main
+          {
+              background-image: url(bg.jpg);
+          }
+          
+          
+          h1
+          {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+            text-decoration: underline;
+          }
