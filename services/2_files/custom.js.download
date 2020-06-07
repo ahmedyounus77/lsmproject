@@ -1,0 +1,32 @@
+(function ($) {
+
+    /* top menu active script */
+    function parent_li(li) {
+        var _li = li.closest('ul').closest('li').addClass('active');
+        if (_li.length > 0) {
+            parent_li(_li)
+        }
+    }
+
+    parent_li($('nav li.active'));
+
+
+    /* home page slider */
+    $(document).ready(function () {
+        $('#carousel-main').owlCarousel({
+            animateOut: 'fadeOut',
+            animateIn: 'fadeIn',
+            loop: true,
+            margin: 0,
+            navigation: true,
+            dots: true,
+            lazyLoad: true,
+            items: 1,
+            autoplay: true,
+            autoplaySpeed: 2000,
+            autoplayTimeout: 5000,
+            responsiveClass: true,
+
+        });
+    });
+})(jQuery)

@@ -1,0 +1,43 @@
+img
+{
+    padding-right: 30px;
+}
+
+
+.btn
+{
+    color: white ;
+    font-size: 16pt ;
+    
+}
+
+.btn:hover
+{background-color: red ;}
+
+.nav-item
+{
+   
+    text-align: center;
+}
+
+#navbarNav
+{
+    text-align: center;
+}
+#brand
+{
+    background-color: black;
+    }
+
+    #lm
+    {
+       
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+        font-size: 36pt !important;
+    }
+    #foot {
+        background-color: black;
+        height: 50px;
+        color: white;
+        font-size: 10pt;
+    }
