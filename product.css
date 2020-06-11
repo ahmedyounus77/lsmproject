@@ -1,5 +1,8 @@
 
-
+body
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+}
 
 #main
 {
@@ -20,7 +23,7 @@ h1
     color: white;
     vertical-align: middle ;
     text-align: center;
-    font-family: "playfair_displayitalic" !important; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
     font-size: 32pt;
     font-weight: bolder;
 }

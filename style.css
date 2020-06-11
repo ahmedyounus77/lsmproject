@@ -1,5 +1,8 @@
 
-
+body
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+}
 
 img
 {
@@ -41,10 +44,10 @@ img
 
     h1
     {
-        font-weight: bold;
-        font-family: "Playfair Display";
+        font-weight: lighther;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
         font-size: 50px;
-        color: white;
+        color: black;
     }
 
    
@@ -62,14 +65,14 @@ img
     color: black;
     height: 300px;
     font-size: 16pt;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+    font-weight: lighter;
     background-image: url(bg2.jpg);
   }
     #use
     {
         font-size: 16pt;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
         font-weight: bold;
     }
   
@@ -133,8 +136,4 @@ img
           }
           
           
-          h1
-          {
-            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
-            text-decoration: underline;
-          }
+          

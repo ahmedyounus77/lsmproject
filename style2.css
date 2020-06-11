@@ -1,6 +1,4 @@
-@font-face {
-  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/polar.otf");
-  font-family: 'Polar';
+
 }
 *, *:before, *:after {
   box-sizing: border-box;
@@ -241,7 +239,7 @@ svg {
   width: 25%;
   bottom: 15%;
   left: 12%;
-  color: #fff;
+  color: black;
   -webkit-transition: opacity 0.5s 0.8s, -webkit-transform 0.5s 0.8s;
   transition: opacity 0.5s 0.8s, -webkit-transform 0.5s 0.8s;
   transition: transform 0.5s 0.8s, opacity 0.5s 0.8s;
@@ -268,7 +266,7 @@ svg {
   }
 }
 .slide__text-heading {
-  font-family: "Polar", Helvetica, Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
   font-size: 5rem;
   margin-bottom: 2rem;
 }
@@ -279,7 +277,7 @@ svg {
   }
 }
 .slide__text-desc {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
   font-size: 1.8rem;
   margin-bottom: 1.5rem;
 }
@@ -294,7 +292,7 @@ svg {
   position: relative;
   padding: 0.5rem;
   cursor: pointer;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
   font-size: 2.3rem;
   -webkit-perspective: 1000px;
           perspective: 1000px;
